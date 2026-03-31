@@ -1,6 +1,6 @@
 # Hi, I'm Disha 👋
 
-I'm a B.Tech IT student at VPKBIET, Baramati. I enjoy building web applications and working on machine learning projects. I like turning ideas into things that actually work.
+ I enjoy building web applications and working on machine learning projects. I like turning ideas into things that actually work.
 
 ---
 
@@ -9,7 +9,7 @@ I'm a B.Tech IT student at VPKBIET, Baramati. I enjoy building web applications 
 - 🎓 B.Tech Information Technology, VPKBIET Baramati
 - 💻 Interested in web development and machine learning
 - 🌱 Currently improving my DSA skills
-- 🚀 I learn best by building — driven by curiosity
+- 🚀 I learn best by building, driven by curiosity
 - 🤝 Open to collaborating on projects
 
 ---
